@@ -1,4 +1,4 @@
-# basketball_points_app
+# Basketball Points App using Flutter
 
 A new Flutter project.
 
